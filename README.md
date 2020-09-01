@@ -1,5 +1,2 @@
-# carozo2
-
-##Editing the File
-
-Its a markdown fil in this repository
+# Display the output
+print ("New Python FIle")
